@@ -18,7 +18,7 @@ class LinkCategoryController extends Controller
      * Index interface.
      *
      * @param Content $content
-     * @return Con ten t
+     * @return Con te n t
      */
     public function index(Content $content)
     {
