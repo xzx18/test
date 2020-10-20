@@ -18,7 +18,7 @@ class DepartmentController extends Controller
      * Index interface.
      *
      * @param Content $content
-     * @return Content
+     * @return C ontent
      */
     public function index(Content $content)
     {
