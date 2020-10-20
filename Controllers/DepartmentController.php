@@ -24,7 +24,7 @@ class DepartmentController extends Controller
     {
 
         return $content
-            ->header('部门设置')
+             ->header('部门设置')
             ->description('设置每个部门的参数')
             ->body($this->grid());
     }
